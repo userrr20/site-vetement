@@ -4,6 +4,11 @@ const products = [
   { id: 2, name: "Pull rose doux", category: "Pulls", price: 29, img: "pull.jpg" },
   { id: 3, name: "Robe fleurie", category: "Robes", price: 45, img: "robe-longue-.jpg" },
   { id: 4, name: "Ensemble chic", category: "Ensembles", price: 55, img: "ensemble.jpg" },
+  { id: 5, name: "Chaussures en cuir", category: "Chaussures", price: 80, img: "chaussures.jpg" },
+  { id: 6, name: "Bracelet en argent", category: "Bijoux", price: 25, img: "bracelet.jpg" },
+  { id: 7, name: "Pantalon fluide", category: "Pantalons", price: 49, img: "pantalon-fluide.jpg" },
+  { id: 8, name: "Manteau d'hiver", category: "Manteaux", price: 95, img: "manteau.jpg" }
+];
 ];
 
 // --- Navigation
