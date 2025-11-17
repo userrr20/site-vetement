@@ -1,9 +1,9 @@
 // --- Données produits (à remplacer par les tiens plus tard)
 const products = [
-  { id: 1, name: "Jean taille haute", category: "Jeans", price: 39, img: "https://via.placeholder.com/250x300?text=Jean" },
-  { id: 2, name: "Pull rose doux", category: "Pulls", price: 29, img: "https://via.placeholder.com/250x300?text=Pull" },
-  { id: 3, name: "Robe fleurie", category: "Robes", price: 45, img: "https://via.placeholder.com/250x300?text=Robe" },
-  { id: 4, name: "Ensemble chic", category: "Ensembles", price: 55, img: "https://via.placeholder.com/250x300?text=Ensemble" },
+  { id: 1, name: "Jean taille haute", category: "Jeans", price: 39, img: "jeans.jpg" },
+  { id: 2, name: "Pull rose doux", category: "Pulls", price: 29, img: "pull.jpg" },
+  { id: 3, name: "Robe fleurie", category: "Robes", price: 45, img: "robe-longue-.jpg" },
+  { id: 4, name: "Ensemble chic", category: "Ensembles", price: 55, img: "ensemble.jpg" },
 ];
 
 // --- Navigation
