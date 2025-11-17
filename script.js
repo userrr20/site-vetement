@@ -8,7 +8,7 @@ const products = [
   { id: 6, name: "Bracelet en or", category: "Bijoux", price: 25, img: "bracelet or.jpg" },
   { id: 7, name: "Pantalon fluide", category: "Pantalons", price: 49, img: "pantaln fluide.jpg" },
   { id: 8, name: "Manteau d'hiver", category: "Manteaux", price: 95, img: "manteau+beige+long+beige.webp" }
-];
+
 ];
 
 // --- Navigation
